@@ -1,0 +1,1 @@
+gcc -L /Library/Frameworks/SDL2.framework/Versions/Current -F /Library/Frameworks -framework SDL2 -I /Library/Frameworks/SDL2.framework/Headers main.c -o Life
